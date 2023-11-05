@@ -1,0 +1,30 @@
+.header{
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 50px;
+}
+.list-group-item {
+    padding-top: 20px;
+}
+
+.select {
+    font-size: 20px;
+    margin-left: 10px;
+    padding: 5px;
+    padding-right: 50px;
+    background-color: white;
+    color: gray;
+    border-radius: 10px;
+    margin-top: 30px;
+    border: none;
+  }
+
+li:nth-child(even) {
+    background-color: #F8CADD;
+    margin-top: 10px;
+}
+li:nth-child(odd) {
+    background-color: white;
+    margin-top: 10px;
+}
